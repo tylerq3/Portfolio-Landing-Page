@@ -1,3 +1,7 @@
 .Cartoon {
   text-align: center;
 }
+
+body { 
+  background-color: lightgray;
+}
