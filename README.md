@@ -23,6 +23,10 @@ _{This page is a brief summary of all about me. It goes into some details of my 
 
 * There are currently no known bugs on this application.
 
+## GitHub Link
+
+* https://github.com/tylerq3/Portfolio-Landing-Page/tree/gh-pages
+
 ## License
 
 _{MIT}_
