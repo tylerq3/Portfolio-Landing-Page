@@ -33,3 +33,78 @@ body {
 .gamer {
   float: right;
 }
+
+.box2 {
+  width: 100%;
+  padding: 50px;
+  border: solid black;
+  border-width: 30px;
+  background-color: green;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  box-align: center;
+}
+
+.box3 {
+  width: 100%;
+  padding: 50px;
+  border: solid black;
+  border-width: 30px;
+  background-color: yellow;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  box-align: center;
+}
+
+.box4 {
+  width: 100%;
+  padding: 50px;
+  border: solid black;
+  border-width: 30px;
+  background-color: red;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  box-align: center;
+}
+
+.box5 {
+  width: 100%;
+  padding: 50px;
+  border: solid black;
+  border-width: 30px;
+  background-color: orange;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  box-align: center;
+}
+
+.box6 {
+  width: 100%;
+  padding: 50px;
+  border: solid black;
+  border-width: 30px;
+  background-color: orchid;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  box-align: center;
+}
+
+.work {
+  text-align: center;
+}
+
+.code {
+  text-align: center;
+} 
+
+.sports {
+  text-align: center;
+}
+
+.gym {
+  text-align: center;
+}
+
+.car {
+  text-align: center;
+}
