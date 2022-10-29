@@ -16,7 +16,10 @@ _{This page is a brief summary of all about me. It goes into some details of my 
 ## Setup/Installation Requirements
 
 * Make Github Account
-* Clone this repository
+* Format using HTML with content about yourself
+* Add img folder 
+* Style with CSS using images to reflect the content 
+
 
 
 ## Known Bugs
@@ -25,7 +28,7 @@ _{This page is a brief summary of all about me. It goes into some details of my 
 
 ## GitHub Link
 
-* https://github.com/tylerq3/Portfolio-Landing-Page/tree/gh-pages
+* https://tylerq3.github.io/Portfolio-Landing-Page/
 
 ## License
 
