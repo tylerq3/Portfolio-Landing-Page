@@ -15,10 +15,9 @@ _{This page is a brief summary of all about me. It goes into some details of my 
 
 ## Setup/Installation Requirements
 
-* Make Github Account
-* Format using HTML with content about yourself
-* Add img folder 
-* Style with CSS using images to reflect the content 
+* Clone this repository
+* Navigate to Portfolio-Landing-Page
+* Double click index.html 
 
 
 
